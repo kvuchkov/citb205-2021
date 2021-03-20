@@ -3,8 +3,11 @@
 
 
 #include "invoice.h"
+#include <iostream>
 
 class TextPrinter {
+    public:
+    void print(std::ostream &out, Invoice invoice);
 };
 
 
