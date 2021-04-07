@@ -8,6 +8,10 @@ using std::string;
 class Product {
 public:
     Product(string name, double price);
+    double getPrice();
+private:
+    string name;
+    double price;
 };
 
 
