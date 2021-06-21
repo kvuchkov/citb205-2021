@@ -1,0 +1,23 @@
+Accounts loaded
+AAA123 (Alan): $1000.00
+BBB321 (Bob): $4000.00
+CCC999 (Chad): $3000.00
+AAA123 (Alan): $1000.00
+BBB321 (Bob): $4000.00
+CCC999 (Chad): $3000.00
+$100.00 was wired successfully
+AAA123 (Alan): $897.50
+BBB321 (Bob): $4000.00
+CCC999 (Chad): $3100.00
+$100.00 was wired successfully
+AAA123 (Alan): $795.00
+CCC999 (Chad): $3200.00
+Cannot wire amount: insufficient funds
+Cannot wire amount: insufficient funds
+Cannot wire amount: cannot find destination account
+Cannot wire amount: cannot find source account
+AAA123 (Alan): $795.00
+CCC999 (Chad): $3200.00
+$792.50 was wired successfully
+AAA123 (Alan): $0.00
+CCC999 (Chad): $3992.50

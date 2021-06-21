@@ -1,0 +1,18 @@
+show AAA123
+show BBB321
+show CCC999
+show Alan Fiction
+show Bob Doe
+show Chad B. Testings
+wire 500 AAA123 CCC999
+show AAA123
+show BBB321
+show CCC999
+wire 1500 AAA123 CCC999
+wire 1500 AAA123 CCC99
+wire 1500 AAA12 CCC999
+show AAA123
+show CCC999
+wire 3500 CCC999 BBB321
+show CCC999
+show BBB321

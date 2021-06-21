@@ -1,0 +1,19 @@
+Accounts loaded
+AAA123 (Alan Fiction): $1000.00
+BBB321 (Bob Doe): $4000.00
+CCC999 (Chad B. Testings): $3000.00
+AAA123 (Alan Fiction): $1000.00
+BBB321 (Bob Doe): $4000.00
+CCC999 (Chad B. Testings): $3000.00
+500.00 was wired successfully
+AAA123 (Alan Fiction): $500.00
+BBB321 (Bob Doe): $4000.00
+CCC999 (Chad B. Testings): $3500.00
+Cannot wire amount: insufficient funds
+Cannot wire amount: cannot find destination account
+Cannot wire amount: cannot find source account
+AAA123 (Alan Fiction): $500.00
+CCC999 (Chad B. Testings): $3500.00
+3500.00 was wired successfully
+CCC999 (Chad B. Testings): $0.00
+BBB321 (Bob Doe): $7500.00

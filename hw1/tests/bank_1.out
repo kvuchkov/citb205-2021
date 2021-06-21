@@ -1,0 +1,5 @@
+450.00
+---
+100.00:BBB(Bob Doe)<-AAA(Alan Fiction)
+200.00:CC(Chad Testings)<-AAA(Alan Fiction)
+150.00:CC(Chad Testings)<-BBB(Bob Doe)

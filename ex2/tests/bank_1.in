@@ -1,0 +1,22 @@
+show AAA123
+show BBB321
+show CCC999
+show Alan
+show Bob
+show Chad
+wire 10000 AAA123 CCC999
+show AAA123
+show BBB321
+show CCC999
+wire 10000 Alan Chad
+show AAA123
+show CCC999
+wire 150000 AAA123 CCC999
+wire 79260 AAA123 CCC999
+wire 15000 AAA123 CCC99
+wire 15000 AAA12 CCC999
+show AAA123
+show CCC999
+wire 79250 AAA123 CCC999
+show AAA123
+show CCC999
